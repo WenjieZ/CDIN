@@ -24,3 +24,7 @@ Name explanation
 - tr    = table row
 - th    = table head
 - td    = table data
+
+Suggestion
+----
+The choice of text editor has nothing to do with your capcity of coding. Don't waste too much time on the choice of editor.
