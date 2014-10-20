@@ -3,6 +3,11 @@ CDIN
 
 This repository is dedicated to my dear students in I.U.T. of Paris who follow my CDIN TPs.
 
+Annonce
+----
+
+Because of some personal reason, it seems that I will not be able to teach the following TPs. However, if you have any questions concerning web page design, do not hesitate to send me an email. Good luck to all!
+
 Useful links
 ----
 
@@ -27,4 +32,5 @@ Name explanation
 
 Suggestion
 ----
-The choice of text editor has nothing to do with your capcity of coding. Don't waste too much time on the choice of editor.
+- The choice of text editor has nothing to do with your capcity of coding. Don't waste too much time on the choice of editor.
+- The best way to learn coding is coding.
