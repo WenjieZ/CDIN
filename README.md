@@ -33,4 +33,4 @@ Name explanation
 Suggestion
 ----
 - The choice of text editor has nothing to do with your capcity of coding. Don't waste too much time on the choice of editor.
-- The best way to learn coding is coding.
+- The best way to learn coding is to code.
