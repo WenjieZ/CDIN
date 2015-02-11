@@ -3,10 +3,6 @@ CDIN
 
 This repository is dedicated to my dear students in I.U.T. of Paris who follow my CDIN TPs.
 
-Announcement
-----
-
-Because of some personal reason, it seems that I will not be able to teach the following TPs. However, if you have any questions concerning web page design, do not hesitate to send me an email. Good luck to all!
 
 Useful links
 ----
